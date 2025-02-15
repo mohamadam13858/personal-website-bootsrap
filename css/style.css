@@ -1,0 +1,33 @@
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: normal;
+    src: url(../Fonts/iranyekan/eot/iranyekanwebregular\(fanum\).eot);
+}
+*{
+    font-family: iranyekan;
+}
+
+body{
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.mobile_nav li a{
+    padding: 15px;
+    color: white;
+}
+.mobile_nav li a:hover{
+    color: yellowgreen;
+    border-bottom: 1px solid yellowgreen;
+}
+
+.sm_nav li a{
+   padding: 15px;
+   color: white;
+   text-decoration: none;
+}
+.sm_nav li a:hover{
+    color: yellowgreen;
+    border-bottom: 1px solid yellowgreen; 
+}
