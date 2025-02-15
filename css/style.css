@@ -18,8 +18,8 @@ body{
     color: white;
 }
 .mobile_nav li a:hover{
-    color: yellowgreen;
-    border-bottom: 1px solid yellowgreen;
+    color: #198754;
+    border-bottom: 1px solid #198754;
 }
 
 .sm_nav li a{
@@ -28,6 +28,9 @@ body{
    text-decoration: none;
 }
 .sm_nav li a:hover{
-    color: yellowgreen;
-    border-bottom: 1px solid yellowgreen; 
+    color: #198754;
+    border-bottom: 1px solid #198754; 
+}
+.main{
+ margin-bottom: 75px;
 }
